@@ -30,7 +30,11 @@
 [![Bower](https://github.com/MarioTerron/logo-images/blob/master/logos/bower.png)](https://bower.io//)
 
     [![Bower](https://github.com/MarioTerron/logo-images/blob/master/logos/bower.png)](http://bower.io/)  
-  
+
+[![Gulp](https://github.com/MarioTerron/logo-images/blob/master/logos/gulpjs.png)](https://gulpjs.com//)
+
+    [![Gulp](https://github.com/MarioTerron/logo-images/blob/master/logos/gulpjs.png)](http://gulpjs.com/)  
+
 [![SASS](https://github.com/MarioTerron/logo-images/blob/master/logos/sass.png)](http://sass-lang.com/)
 
     [![SASS](https://github.com/MarioTerron/logo-images/blob/master/logos/sass.png)](http://www.w3.org/)  

@@ -51,7 +51,7 @@
 
     [![Mongoose](https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png)](https://www.mongoosejs.com/)
 
-[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
+[![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com/)
 
     [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://www.expressjs.com/)  
 

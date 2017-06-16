@@ -47,13 +47,26 @@
 
     [![MongoDB](https://github.com/MarioTerron/logo-images/blob/master/logos/mongodb.png)](https://www.mongodb.com/)
 
+[![Mongoose](https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png)](https://www.mongoosejs.com/)
+
+    [![Mongoose](https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png)](https://www.mongoosejs.com/)
+
 [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://expressjs.com///)
 
     [![ExpressJS](https://github.com/MarioTerron/logo-images/blob/master/logos/expressjs.png)](http://www.expressjs.com/)  
 
-[![Pug](https://github.com/MarioTerron/logo-images/blob/master/logos/pug.png)](http://expressjs.com/)
+[![Pug](https://github.com/MarioTerron/logo-images/blob/master/logos/pug.png)](http://www.pugjs.org/)
 
-    [![PugJS](https://github.com/MarioTerron/logo-images/blob/master/logos/pug.png)](http://www.pugjs.org/)  
+    [![PugJS](https://github.com/MarioTerron/logo-images/blob/master/logos/pug.png)](http://www.pugjs.org/)
+
+[![Browserify](https://github.com/MarioTerron/logo-images/blob/master/logos/browserify.png)](http://www.browserify.org/)
+
+    [![Passport](https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png)](http://www.passportjs.org/)
+
+[![Passport](https://github.com/MarioTerron/logo-images/blob/master/logos/passport.png)](http://www.passportjs.org/)
+
+    [![Browserify](https://github.com/MarioTerron/logo-images/blob/master/logos/browserify.png)](http://www.browserify.org/)  
+  
 
 [![NodeSchool](https://github.com/MarioTerron/logo-images/blob/master/logos/node-school.png)](https://nodeschool.io/)
 

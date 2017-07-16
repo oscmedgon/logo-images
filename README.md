@@ -25,7 +25,6 @@
 [![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)
 
     [![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0/)
-  
 
 [![Bootstrap](https://github.com/MarioTerron/logo-images/blob/master/logos/bootstrap.png)](http://getbootstrap.com/)
 
@@ -35,9 +34,13 @@
 
     [![Bower](https://github.com/MarioTerron/logo-images/blob/master/logos/bower.png)](http://bower.io/)  
 
-[![Gulp](https://github.com/MarioTerron/logo-images/blob/master/logos/gulpjs.png)](https://gulpjs.com//)
+[![Gulp](https://github.com/MarioTerron/logo-images/blob/master/logos/gulpjs.png)](https://gulpjs.com/)
 
-    [![Gulp](https://github.com/MarioTerron/logo-images/blob/master/logos/gulpjs.png)](http://gulpjs.com/)  
+    [![Gulp](https://github.com/MarioTerron/logo-images/blob/master/logos/gulpjs.png)](http://gulpjs.com/)
+
+[![Webpack](https://github.com/MarioTerron/logo-images/blob/master/logos/webpack.png)](https://webpack.github.io/)
+
+    [![Webpack](https://github.com/MarioTerron/logo-images/blob/master/logos/webpack.png)](https://webpack.github.io/)  
 
 [![SASS](https://github.com/MarioTerron/logo-images/blob/master/logos/sass.png)](http://sass-lang.com/)
 

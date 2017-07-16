@@ -6,6 +6,10 @@
 
     [![AngularJS](https://github.com/MarioTerron/logo-images/blob/master/logos/angularjs.png)](https://angularjs.org/)
 
+[![React](https://github.com/MarioTerron/logo-images/blob/master/logos/react.png)](https://facebook.github.io/react/)
+
+    [![React](https://github.com/MarioTerron/logo-images/blob/master/logos/react.png)](https://facebook.github.io/react/)
+ 
 [![HTML5 and CSS3](https://github.com/MarioTerron/logo-images/blob/master/logos/html5andcss3.png)](https://www.w3.org/)
 
     [![HTML5 and CSS3](https://github.com/MarioTerron/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)  

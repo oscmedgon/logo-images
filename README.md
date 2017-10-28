@@ -1,6 +1,6 @@
-### How to use the different logos in readme files
+## How to use the different logos in readme files
 
-- Just copy the text below the logo image, and paste it into the markdown file
+### - Just copy the text below the logo image, and paste it into the markdown file
 
 [![HTML and CSS](https://github.com/MarioTerron/logo-images/blob/master/logos/html5andcss3.png)](https://www.w3.org)
 

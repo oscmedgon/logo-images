@@ -48,7 +48,11 @@
 
 [![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0)
 
-    [![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0) 
+    [![ES6](https://github.com/MarioTerron/logo-images/blob/master/logos/es6.png)](http://www.ecma-international.org/ecma-262/6.0)
+
+[![Babel](https://github.com/MarioTerron/logo-images/blob/master/logos/babel.png)](https://babeljs.io)
+
+    [![Babel](https://github.com/MarioTerron/logo-images/blob/master/logos/babel.png)](https://babeljs.io)
 
 [![AngularJS](https://github.com/MarioTerron/logo-images/blob/master/logos/angularjs.png)](https://angularjs.org)
 

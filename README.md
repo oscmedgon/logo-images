@@ -2,6 +2,7 @@
 
 ### Just copy the text below the logo image, and paste it into the markdown file
 
+
 [![HTML and CSS](https://github.com/MarioTerron/logo-images/blob/master/logos/html5andcss3.png)](https://www.w3.org)
 
     [![HTML5 and CSS3](https://github.com/MarioTerron/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/)  
